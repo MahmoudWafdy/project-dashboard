@@ -18,7 +18,7 @@ Flexbox  techniques were employed for efficient and flexible positioning of elem
 Visit the live website [My website](https://mahmoudwafdy.github.io/project-dashboard/).
 
 ## Repository
-Find the source code in this [GitHub repository](https://github.com/MahmoudWafdy/project-dashboar).
+Find the source code in this [GitHub repository](https://github.com/MahmoudWafdy/project-dashboard).
 
 ## Preview
 ![website photo](./assets/screen1.JPG) 
